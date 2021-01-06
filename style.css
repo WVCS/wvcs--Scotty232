@@ -17,7 +17,8 @@ li{
 
 
     
-  body{
+  <body>
+{
   background-color: blue;
    
   }
@@ -27,3 +28,4 @@ li{
   text-align: center;
   font-size: 200px;
   }
+ </body>
